@@ -65,17 +65,20 @@ Open the index.html file in Google Chrome
 Click Start and allow webcam permission when prompted.
 
 📁 Project Structure
+
 ├── index.html
+
 ├── README.md
+
 └── (Teachable Machine model loaded via URL)
 
 🔮 Future Enhancements
 
-🔐 Ignition interlock system (vehicle won’t start without helmet)
-🪖 Smart helmet integration with built-in sensors
-🚨 Accident detection using motion sensors
-📍 GPS-based emergency alerts
-📱 Mobile app integration
+🔐 Ignition interlock system (vehicle won’t start without helmet) 
+🪖 Smart helmet integration with built-in sensors  
+🚨 Accident detection using motion sensors  
+📍 GPS-based emergency alerts  
+📱 Mobile app integration  
 ☁️ Cloud-based analytics for smart cities
 
 Inspired by industry developments such as TVS Motor Company’s automatic helmet detection connected to vehicle ignition systems.
